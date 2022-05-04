@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # FFT_C
 Fourier transform library in C (for esp8266)
 
