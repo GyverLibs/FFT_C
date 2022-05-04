@@ -35,7 +35,7 @@ Not
 ## Usage
 ```cpp
 #define FFT_SIZE 64 // before including the library. Must be a multiple of a power of 2
-void FFT(int* AVal, int* FTVl);
+void FFT(int* AVal, int* FTvl);
 // AVal - array of analyzed data
 // FTVl - array of received values
 ```
